@@ -14,8 +14,11 @@
     <string name="color_scramble">Color Scramble</string>
 
     <string name="register">REGISTER</string>
+    <string name="confirm_password_hint">Confirm Password</string>
     <string name="signup_login_hint">Already have an account? Sign In</string>
     <string name="name_hint">Username</string>
+    <string name="timer_value">Timer Value</string>
+    <string name="scramble">Scramble</string>
 
 
 </resources>
